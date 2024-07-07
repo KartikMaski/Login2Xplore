@@ -1,4 +1,4 @@
-Project Title: JsonPowerDB Integration for Shipment Management
+JsonPowerDB Integration for Shipment Management
 Description
 This project aims to integrate JsonPowerDB (JPDB) into a shipment management system. By leveraging JPDB's high-performance NoSQL capabilities, the system will efficiently store and manage shipment data, including shipment number, description, source, destination, shipping date, and expected delivery date.
 
